@@ -4,7 +4,8 @@ import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-import lombok.Data;
+//import lombok.Data;
+
 
 //@Data // getters and setters
 @Entity // it is a model or entity which directly represents database table
